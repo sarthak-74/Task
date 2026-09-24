@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IDE files
+.idea/
+
+# Logs
+*.log
+
+# Bandit reports
+bandit-report.json
+
+# Generated files
+safe_files/*
+!safe_files/.gitkeep

@@ -1,0 +1,7 @@
+TASK 3 - SECURE FILE ACCESS DEMONSTRATION
+
+This file is stored inside the application's approved
+secure_files directory.
+
+The secure application prevents path traversal
+outside this directory.

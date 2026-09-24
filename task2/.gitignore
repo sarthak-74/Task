@@ -1,0 +1,23 @@
+```gitignore id="9l9wqj"
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IDE files
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Node.js files if used later
+node_modules/
+
+# Environment files
+.env
+.env.local
